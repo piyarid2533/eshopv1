@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss>
+    <info>
+        <item>
+            <name><![CDATA[Announcement ประกาศจากทางเว็บไซต์]]></name>
+            <image><![CDATA[http://esprinkle.com/imgs/plugins_icon.png]]></image>
+			<version><![CDATA[Beta]]></version>
+			<devloper><![CDATA[Jimmy Lowrax]]></devloper>
+			<description><![CDATA[ประกาศข่าวและอัพเดทจากทางเว็บไซต์]]></description>
+			<position><![CDATA[0]]></position>
+        </item> 
+    </info>
+</rss>

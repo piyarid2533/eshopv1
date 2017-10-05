@@ -1,0 +1,22 @@
+.contain{
+	padding: 5px;
+	background-color: #FFF;
+	border: 1px solid #E9E9E9;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.select-type{
+	display: block;
+	width: 100%;
+	min-height: 30px;
+	box-sizing: border-box;
+}
+select {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	height: 30px;
+	line-height: 30px;
+}
+.div-subcate{
+	padding-left: 45px;
+}
